@@ -1,0 +1,6 @@
+{
+  "name": "Meshwar",
+  "description": "A premium and reliable ride-hailing application tailored for Iraq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
